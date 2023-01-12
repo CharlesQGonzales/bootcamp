@@ -1,0 +1,28 @@
+
+div id="" 
+
+#div name{}
+
+.div~name
+--
+font-family arial hel, san serif
+comic, sans
+tahoma, gen
+--
+line height em
+< div class=" " (all)
+      id=" "    (one)
+margin padding top right bttm left
+--
+reset
+* {
+margin 
+padding
+}
+--
+list-style-image: url ()
+--
+class .
+id #
+-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
